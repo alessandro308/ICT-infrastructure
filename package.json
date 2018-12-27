@@ -1,0 +1,28 @@
+{
+  "name": "ict-infrastructures",
+  "version": "1.0.0",
+  "description": "Notes of ICT Infrastructures course - University of Pisa (Italy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giacomodeliberali/ict-infrastructures.git"
+  },
+  "keywords": [
+    "ict"
+  ],
+  "authors": [
+    "Alessandro Pagiaro",
+    "Giacomo De Liberali"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giacomodeliberali/ict-infrastructures/issues"
+  },
+  "homepage": "https://github.com/giacomodeliberali/ict-infrastructures#readme",
+  "devDependencies": {
+    "markdown-magic": "^0.1.25"
+  }
+}
